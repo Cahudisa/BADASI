@@ -1,0 +1,83 @@
+{
+    "UIS04": {
+        "network": "UX",
+        "channels": [
+            "HNE",
+            "HNN",
+            "HNZ"
+        ],
+        "coords": [
+            7.536256,
+            -72.634274,
+            1235.0
+        ]
+    },
+    "UIS03": {
+        "network": "UX",
+        "channels": [
+            "HNE",
+            "HNN",
+            "HNZ"
+        ],
+        "coords": [
+            6.724861,
+            -72.71921,
+            2138.0
+        ]
+    },
+    "UIS01": {
+        "network": "UX",
+        "channels": [
+            "HNE",
+            "HNN",
+            "HNZ"
+        ],
+        "coords": [
+            6.757503,
+            -73.101948,
+            1336.0
+        ]
+    },
+    "UIS11": {
+        "network": "UX",
+        "channels": [
+            "EHE",
+            "EHN",
+            "EHZ"
+        ],
+        "coords": [
+            7.162162162,
+            -72.6578333,
+            2482.0
+        ]
+    },
+    "UIS09": {
+        "network": "UX",
+        "channels": [
+            "EHE",
+            "EHN",
+            "EHZ"
+        ],
+        "coords": [
+            6.80862,
+            -73.27272,
+            1703.0
+        ]
+    },
+    "UIS05": {
+        "network": "UX",
+        "channels": [
+            "EHE",
+            "EHN",
+            "EHZ",
+            "ENE",
+            "ENN",
+            "ENZ"
+        ],
+        "coords": [
+            7.1314,
+            -73.0405,
+            1800.0
+        ]
+    }
+}
