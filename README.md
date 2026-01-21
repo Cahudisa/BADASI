@@ -61,7 +61,7 @@ Este diseño permite mantener un historial de cambios y asegurar la integridad d
 
 ---
 
-## 🛠️ Tecnologías utilizadas
+## Tecnologías utilizadas
 
 - **Python**: procesamiento de datos y automatización del pipeline.
 - **ObsPy**: manejo y análisis de datos sísmicos.
