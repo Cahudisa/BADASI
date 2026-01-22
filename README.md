@@ -78,5 +78,4 @@ Este diseño permite mantener un historial de cambios y asegurar la integridad d
 ├── scripts/            # Scripts de procesamiento y automatización
 ├── database/           # Scripts relacionados con MongoDB
 ├── figures/            # Figuras utilizadas en la documentación
-├── docs/               # Documentación adicional del proyecto
 └── README.md           # Descripción general del proyecto
