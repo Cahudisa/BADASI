@@ -24,7 +24,7 @@ El sistema fue diseñado con un enfoque modular, de forma que pueda adaptarse a 
 - Implementar y automatizar un pipeline de procesamiento de datos sísmológicos.
 - Diseñar y estructurar una base de datos sismol´ogica inspirada en la organización del Stanford Earthquake Dataset (STEAD).
 - Integrar y escalar un sistema de automatizaci´on para la actualización continua del dataset.
-- 
+
 ---
 
 ## Metodología
